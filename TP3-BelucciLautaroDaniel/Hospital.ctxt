@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hospital\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_nombreHospital\ p_nombreDirector
+comment1.target=Hospital(java.lang.String,\ java.lang.String)
+comment2.params=p_nombreHospital
+comment2.target=void\ setNomHospi(java.lang.String)
+comment3.params=p_nombreDirector
+comment3.target=void\ setNomDirec(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNomHospi()
+comment5.params=
+comment5.target=java.lang.String\ getNomDirec()
+comment6.params=p_paciente
+comment6.target=void\ consultaDatosFiliatorios(Paciente)
+numComments=7

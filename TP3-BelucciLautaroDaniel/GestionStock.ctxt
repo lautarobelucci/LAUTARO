@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GestionStock
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GestionStock\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ ingresarDatosLaboratorio()
+comment3.params=unLaboratorio
+comment3.target=void\ ingresarDatosProducto(Laboratorio)
+comment4.params=unProducto
+comment4.target=void\ ingresarStock(Producto)
+numComments=5

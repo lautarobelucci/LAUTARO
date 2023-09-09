@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\r\n\ La\ clase\ Punto\ permite\ crear\ un\ punto.\r\n\ \r\n\ @author\ (Lautaro\ Daniel\ Belucci).\ \r\n\ @version\ (1.0).\r\n
+comment1.params=
+comment1.target=Punto()
+comment10.params=
+comment10.target=void\ mostrar()
+comment10.text=\r\n\ Muestra\ los\ datos\ del\ punto\:\ la\ posicion\ del\ punto\ X\ e\ Y.\r\n
+comment2.params=p_x\ p_y
+comment2.target=Punto(double,\ double)
+comment3.params=p_x
+comment3.target=void\ setX(double)
+comment4.params=p_y
+comment4.target=void\ setY(double)
+comment5.params=
+comment5.target=double\ getX()
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=p_ptoDistante
+comment7.target=double\ distanciaA(Punto)
+comment8.params=p_dx\ p_dy
+comment8.target=void\ desplazar(double,\ double)
+comment8.text=\r\n\ Permite\ cambiar\ la\ posicion\ del\ punto.\r\n\ @param\ las\ posiciones\ en\ las\ que\ se\ quiere\ desplazar\r\n
+comment9.params=
+comment9.target=java.lang.String\ coordenadas()
+comment9.text=\r\n\ Permite\ mostrar\ las\ coordenadas\ del\ punto.\r\n\ @param\ no\ contiene\ \r\n\ @return\ Las\ coordenadas\ actual\ del\ punto.\r\n
+numComments=11
